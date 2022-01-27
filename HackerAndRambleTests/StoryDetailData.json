@@ -1,0 +1,127 @@
+{
+  "id": 30068134,
+  "title": "Papers We Love",
+  "points": 114,
+  "user": "rammy1234",
+  "time": 1643086061,
+  "time_ago": "2 days ago",
+  "type": "link",
+  "url": "https://github.com/papers-we-love/papers-we-love",
+  "domain": "github.com",
+  "comments": [
+    {
+      "id": 30070256,
+      "level": 0,
+      "user": "lemarchr",
+      "time": 1643106321,
+      "time_ago": "2 days ago",
+      "content": "<p>It must be that time of the year again: <a href=\"https:&#x2F;&#x2F;hn.algolia.com&#x2F;?q=Papers+We+Love\" rel=\"nofollow\">https:&#x2F;&#x2F;hn.algolia.com&#x2F;?q=Papers+We+Love</a><p>Edit: Not meant as snark, just a playful observation of how often this is shared. Remains a worthy contribution to this day.",
+      "comments": [
+        {
+          "id": 30070901,
+          "level": 1,
+          "user": "atulatul",
+          "time": 1643112536,
+          "time_ago": "2 days ago",
+          "content": "<p>And every time it pops up, I add at least one paper to my reading list. So keep re-posting it, I&#x27;d say. :)",
+          "comments": []
+        },
+        {
+          "id": 30076015,
+          "level": 1,
+          "user": "anonymous532",
+          "time": 1643136107,
+          "time_ago": "2 days ago",
+          "content": "<p>And yet, today I&#x27;m one of the 10000: <a href=\"https:&#x2F;&#x2F;xkcd.com&#x2F;1053&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;xkcd.com&#x2F;1053&#x2F;</a>",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 30070304,
+      "level": 0,
+      "user": "BasilPH",
+      "time": 1643106873,
+      "time_ago": "2 days ago",
+      "content": "<p>I love the idea of reading more papers but I&#x27;m a bit overwhelmed at the idea of just diving in an adding more to my reading list. I would love to hear from people who managed to read papers next to a day-job and retain some of the knowledge presented?",
+      "comments": [
+        {
+          "id": 30072308,
+          "level": 1,
+          "user": "otras",
+          "time": 1643122030,
+          "time_ago": "2 days ago",
+          "content": "<p>I started getting into reading more CS papers when I was doing an MS while working a programming day job, and I found some combination of the following worked pretty well for me:<p><pre><code>    - Getting used to skimming and doing multiple passes thanks to How to Read a Paper[0]\n    - For starting off, working through some classic papers with some guidance (e.g. for distributed systems, reading MapReduce and watching the corresponding MIT Distributed Systems[1] lecture for MapReduce[2])\n    - Sometimes writing a summary or a small project to use the concepts in the paper\n    - Reviewing the paper and&#x2F;or summary with some regularity. I ended up building a small reminder app that helps me space out my repetition, but Anki or something similar, with a time scale of days, worked as well. For me, this was less about flash card memorization and more about a reminder to review.\n</code></pre>\nAt this point I feel pretty comfortable jumping into new papers from a few different areas, though I still do plenty of googling and adding other papers to my list.<p>[0]: <a href=\"https:&#x2F;&#x2F;web.stanford.edu&#x2F;class&#x2F;ee384m&#x2F;Handouts&#x2F;HowtoReadPaper.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;web.stanford.edu&#x2F;class&#x2F;ee384m&#x2F;Handouts&#x2F;HowtoReadPape...</a><p>[1]: <a href=\"https:&#x2F;&#x2F;pdos.csail.mit.edu&#x2F;6.824&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;pdos.csail.mit.edu&#x2F;6.824&#x2F;</a><p>[2]: <a href=\"http:&#x2F;&#x2F;nil.csail.mit.edu&#x2F;6.824&#x2F;2021&#x2F;schedule.html\" rel=\"nofollow\">http:&#x2F;&#x2F;nil.csail.mit.edu&#x2F;6.824&#x2F;2021&#x2F;schedule.html</a>",
+          "comments": []
+        },
+        {
+          "id": 30070895,
+          "level": 1,
+          "user": "atulatul",
+          "time": 1643112462,
+          "time_ago": "2 days ago",
+          "content": "<p>I struggled with this as well. The way out is reading papers which are accessible and then widen the scope a bit. Some content is advanced, theoretical to start with. But we can know that only when we attempt. Also, reading papers is advanced in the sense that it generally comes after reading long form content, books (which I think you meant when you said &#x27;adding more to my reading list&#x27;). At least that has been the case with me.<p>After a while, I found that, for me, some papers are simple and accessible compared to others and once I read them the knowledge they present looks obvious in hindsight like Rich Hickey&#x27;s Are We There Yet talk.<p>Again the point is keep at it. Only then we can we know and get comfortable.<p>Some recommendations to start with: \n1. PhD thesis of Joe Armstrong, Erlang\u2019s co-inventor: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;papers-we-love&#x2F;papers-we-love&#x2F;tree&#x2F;master&#x2F;languages&#x2F;erlang\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;papers-we-love&#x2F;papers-we-love&#x2F;tree&#x2F;master...</a>\n2. Out of the tar pit and No Silver Bullet under <a href=\"https:&#x2F;&#x2F;github.com&#x2F;papers-we-love&#x2F;papers-we-love&#x2F;tree&#x2F;master&#x2F;design\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;papers-we-love&#x2F;papers-we-love&#x2F;tree&#x2F;master...</a>",
+          "comments": []
+        },
+        {
+          "id": 30072680,
+          "level": 1,
+          "user": "tayllan",
+          "time": 1643123716,
+          "time_ago": "2 days ago",
+          "content": "<p>What worked for me was starting with some simple one, a bit technical, but not over the top. I think the first paper I really read, and this was a couple months ago, was Facebook&#x27;s &quot;Gorilla: A Fast, Scalable, In-Memory Time Series Database&quot;[0]<p>After that, I started to write 1-3 paragraph summaries to myself, so that I could always come back to the main takeaways, because I know I&#x27;ll forget it after 1 week.<p>And then, last week I created a Twitter account where I post these opinionated summaries [1]<p>[0] <a href=\"https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol8&#x2F;p1816-teller.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.vldb.org&#x2F;pvldb&#x2F;vol8&#x2F;p1816-teller.pdf</a><p>[1] <a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;paper_takeaways\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;paper_takeaways</a>",
+          "comments": [
+            {
+              "id": 30073746,
+              "level": 2,
+              "user": "BasilPH",
+              "time": 1643127957,
+              "time_ago": "2 days ago",
+              "content": "<p>Cool idea, I started following your Twitter account.",
+              "comments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30071926,
+      "level": 0,
+      "user": "wodenokoto",
+      "time": 1643119797,
+      "time_ago": "2 days ago",
+      "content": "<p>Is it like a book club for scientific papers? The title had me think it was a curated list of papers, but the read me seems more focused on chapters of an organization that is centered around Meetup\u2019s.",
+      "comments": [
+        {
+          "id": 30081279,
+          "level": 1,
+          "user": "zeeshanlakhani",
+          "time": 1643167346,
+          "time_ago": "a day ago",
+          "content": "<p>We do have a repository, but it&#x27;s def more focused on the community of chapters centered around presenting on and learning more about papers. Some on Meetup, some over Zoom&#x2F;streaming, some over information discussion formats.",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": 30071983,
+      "level": 0,
+      "user": "aliceryhl",
+      "time": 1643120097,
+      "time_ago": "2 days ago",
+      "content": "<p>I&#x27;ve seen this posted every so often. How are you intended to use it? Just click a folder and pick a random paper?",
+      "comments": [
+        {
+          "id": 30073239,
+          "level": 1,
+          "user": "tayllan",
+          "time": 1643126192,
+          "time_ago": "2 days ago",
+          "content": "<p>Exactly my thoughts when I first saw the repo, it&#x27;s just too much for me to be able to decide. A better approach I recommend is starting with an easy and interesting paper, reading it even if not in full, and then going through the references, which are sure to have some more interesting papers to read.<p>Aho-Corasick &quot;Efficient String Matching: An Aid to Bibliographic Search&quot;, or Bentley-McIlroy &quot;Data Compression Using Long Common Strings&quot; are 2 such good places to start.",
+          "comments": []
+        }
+      ]
+    }
+  ],
+  "comments_count": 12
+}
